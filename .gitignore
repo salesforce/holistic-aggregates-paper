@@ -1,0 +1,8 @@
+*.swp
+*.log
+*.out
+*.aux
+*.pdf
+build*
+.DS_Store
+.vscode

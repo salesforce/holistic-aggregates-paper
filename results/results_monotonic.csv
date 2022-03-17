@@ -1,0 +1,559 @@
+countd,Hyper naive,1,9.762636400293559
+countd,Hyper incremental,1,0.18746858090162277
+countd,Hyper incremental,2,0.18246289063245058
+countd,Hyper incremental,4,0.18174112029373646
+countd,Hyper incremental,5,0.1850077798590064
+countd,Hyper incremental,8,0.18606953509151936
+countd,Hyper incremental,11,0.18865997530519962
+countd,Hyper incremental,16,0.19041273836046457
+countd,Hyper incremental,22,0.1814050991088152
+countd,Hyper incremental,32,0.18350663594901562
+countd,Hyper incremental,45,0.19440778251737356
+countd,Hyper incremental,64,0.18376122508198023
+countd,Hyper incremental,90,0.1776476725935936
+countd,Hyper incremental,128,0.18364251591265202
+countd,Hyper incremental,181,0.18337775580585003
+countd,Hyper incremental,256,0.18961877562105656
+countd,Hyper incremental,362,0.18395410105586052
+countd,Hyper incremental,512,0.19118051789700985
+countd,Hyper incremental,724,0.18481576163321733
+countd,Hyper incremental,1024,0.19017454702407122
+countd,Hyper incremental,1448,0.18954620882868767
+countd,Hyper incremental,2048,0.18745146412402391
+countd,Hyper incremental,2896,0.19106633588671684
+countd,Hyper incremental,4096,0.20182182919234037
+countd,Hyper incremental,5792,0.21161259524524212
+countd,Hyper incremental,8192,0.2158006951212883
+countd,Hyper incremental,11585,0.22758706752210855
+countd,Hyper incremental,16384,0.29127422999590635
+countd,Hyper incremental,23170,0.31971078272908926
+countd,Hyper incremental,32768,0.33331526163965464
+countd,Hyper incremental,46340,0.35569953452795744
+countd,Hyper incremental,65536,0.5593226803466678
+countd,Hyper incremental,92681,0.6116447998210788
+countd,Hyper incremental,131072,0.6892421888187528
+countd,Hyper incremental,185363,0.8034086553379893
+countd,Hyper incremental,262144,1.2833422017283738
+countd,Hyper incremental,370727,1.517067926004529
+countd,Hyper incremental,524288,1.8343561086803675
+countd,Hyper incremental,741455,2.2634926410391927
+countd,Hyper incremental,1048576,2.8882337026298046
+countd,Hyper tree,1,0.3245261115953326
+countd,Hyper tree,2,0.3234940469264984
+countd,Hyper tree,4,0.3173941867426038
+countd,Hyper tree,5,0.3294023750349879
+countd,Hyper tree,8,0.32901561073958874
+countd,Hyper tree,11,0.32428133953362703
+countd,Hyper tree,16,0.32055935822427273
+countd,Hyper tree,22,0.3268634397536516
+countd,Hyper tree,32,0.3318321257829666
+countd,Hyper tree,45,0.3239267794415355
+countd,Hyper tree,64,0.32339700125157833
+countd,Hyper tree,90,0.3258719453588128
+countd,Hyper tree,128,0.3271080479025841
+countd,Hyper tree,181,0.3220001133158803
+countd,Hyper tree,256,0.31362079456448555
+countd,Hyper tree,362,0.3258906193077564
+countd,Hyper tree,512,0.33561943750828505
+countd,Hyper tree,724,0.3355874167755246
+countd,Hyper tree,1024,0.3342777583748102
+countd,Hyper tree,1448,0.3387966798618436
+countd,Hyper tree,2048,0.3438694113865495
+countd,Hyper tree,2896,0.3399892719462514
+countd,Hyper tree,4096,0.3470655558630824
+countd,Hyper tree,5792,0.3457876518368721
+countd,Hyper tree,8192,0.34514382667839527
+countd,Hyper tree,11585,0.3512687189504504
+countd,Hyper tree,16384,0.35912540275603533
+countd,Hyper tree,23170,0.36240150686353445
+countd,Hyper tree,32768,0.3796980185434222
+countd,Hyper tree,46340,0.3837996292859316
+countd,Hyper tree,65536,0.38260559644550085
+countd,Hyper tree,92681,0.38407234102487564
+countd,Hyper tree,131072,0.3801176929846406
+countd,Hyper tree,185363,0.38611063454300165
+countd,Hyper tree,262144,0.3803683053702116
+countd,Hyper tree,370727,0.38401196897029877
+countd,Hyper tree,524288,0.38378511741757393
+countd,Hyper tree,741455,0.3887781975790858
+countd,Hyper tree,1048576,0.3951306277886033
+percentile99,DuckDB separate,1,2.5123965200036764
+percentile99,DuckDB separate,2,2.7009416590444744
+percentile99,DuckDB separate,4,2.931795312091708
+percentile99,DuckDB separate,5,2.8826989182271063
+percentile99,DuckDB separate,8,3.349109087139368
+percentile99,DuckDB separate,11,3.533750981092453
+percentile99,DuckDB separate,16,4.03701784927398
+percentile99,DuckDB separate,22,4.41907352488488
+percentile99,DuckDB separate,32,5.221511073410511
+percentile99,DuckDB window,1,1.6235201051458716
+percentile99,DuckDB window,2,1.665104502812028
+percentile99,DuckDB window,4,1.7578547894954681
+percentile99,DuckDB window,5,1.7524796654470265
+percentile99,DuckDB window,8,1.821488053072244
+percentile99,DuckDB window,11,1.8756287321448326
+percentile99,DuckDB window,16,1.886210773140192
+percentile99,DuckDB window,22,1.953797871246934
+percentile99,DuckDB window,32,1.937888782005757
+percentile99,DuckDB window,45,1.937742352951318
+percentile99,DuckDB window,64,1.9906829735264182
+percentile99,DuckDB window,90,2.019193645566702
+percentile99,DuckDB window,128,2.134543923661113
+percentile99,DuckDB window,181,2.2222056668251753
+percentile99,DuckDB window,256,2.4582232665270567
+percentile99,DuckDB window,362,2.6760090538300574
+percentile99,DuckDB window,512,3.070071702823043
+percentile99,DuckDB window,724,3.605044038966298
+percentile99,DuckDB window,1024,4.39623696077615
+percentile99,DuckDB window,1448,5.4133290448226035
+percentile99,Hyper naive,1,0.20865105465054512
+percentile99,Hyper naive,2,0.2062504505738616
+percentile99,Hyper naive,4,0.21920678485184908
+percentile99,Hyper naive,5,0.21949469950050116
+percentile99,Hyper naive,8,0.23420246969908476
+percentile99,Hyper naive,11,0.24805599264800549
+percentile99,Hyper naive,16,0.28672098089009523
+percentile99,Hyper naive,22,0.305782507173717
+percentile99,Hyper naive,32,0.3103356882929802
+percentile99,Hyper naive,45,0.37063959799706936
+percentile99,Hyper naive,64,0.37610590923577547
+percentile99,Hyper naive,90,0.4217712199315429
+percentile99,Hyper naive,128,0.5310546867549419
+percentile99,Hyper naive,181,0.6347692664712667
+percentile99,Hyper naive,256,0.7927195588126779
+percentile99,Hyper naive,362,1.0037674051709473
+percentile99,Hyper naive,512,1.2975467247888446
+percentile99,Hyper naive,724,1.7186722452752292
+percentile99,Hyper naive,1024,2.298097413033247
+percentile99,Hyper naive,1448,3.066058807540685
+percentile99,Hyper naive,2048,4.24013705458492
+percentile99,Hyper naive,2896,6.367366328369826
+percentile99,Hyper incremental,1,0.22002885024994612
+percentile99,Hyper incremental,2,0.21160579193383455
+percentile99,Hyper incremental,4,0.2107908921316266
+percentile99,Hyper incremental,5,0.21364013757556677
+percentile99,Hyper incremental,8,0.2125661913305521
+percentile99,Hyper incremental,11,0.2135235359892249
+percentile99,Hyper incremental,16,0.21686691977083683
+percentile99,Hyper incremental,22,0.21721590496599674
+percentile99,Hyper incremental,32,0.20890410151332617
+percentile99,Hyper incremental,45,0.21420140471309423
+percentile99,Hyper incremental,64,0.2139440095052123
+percentile99,Hyper incremental,90,0.21450944244861603
+percentile99,Hyper incremental,128,0.2114515583962202
+percentile99,Hyper incremental,181,0.2165059382095933
+percentile99,Hyper incremental,256,0.20873695239424706
+percentile99,Hyper incremental,362,0.2206561854109168
+percentile99,Hyper incremental,512,0.23498651664704084
+percentile99,Hyper incremental,724,0.25614388287067413
+percentile99,Hyper incremental,1024,0.28630690835416317
+percentile99,Hyper incremental,1448,0.32116155605763197
+percentile99,Hyper incremental,2048,0.3803366795182228
+percentile99,Hyper incremental,2896,0.455782201141119
+percentile99,Hyper incremental,4096,0.5803155694156885
+percentile99,Hyper incremental,5792,0.7274776641279459
+percentile99,Hyper incremental,8192,0.9506872044876218
+percentile99,Hyper incremental,11585,16.527115877717733
+percentile99,Hyper tree,1,0.8308911789208651
+percentile99,Hyper tree,2,0.7509783525019884
+percentile99,Hyper tree,4,0.6908523170277476
+percentile99,Hyper tree,5,0.6669620824977756
+percentile99,Hyper tree,8,0.6470715701580048
+percentile99,Hyper tree,11,0.6400083368644118
+percentile99,Hyper tree,16,0.6266320664435625
+percentile99,Hyper tree,22,0.6255950992926955
+percentile99,Hyper tree,32,0.6236214116215706
+percentile99,Hyper tree,45,0.6222406942397356
+percentile99,Hyper tree,64,0.6339185331016779
+percentile99,Hyper tree,90,0.6322161620482802
+percentile99,Hyper tree,128,0.6311463695019484
+percentile99,Hyper tree,181,0.6241829777136445
+percentile99,Hyper tree,256,0.6322097033262253
+percentile99,Hyper tree,362,0.6243023108690977
+percentile99,Hyper tree,512,0.6342744184657931
+percentile99,Hyper tree,724,0.6321828784421086
+percentile99,Hyper tree,1024,0.6405657222494483
+percentile99,Hyper tree,1448,0.6311156703159213
+percentile99,Hyper tree,2048,0.6270382208749652
+percentile99,Hyper tree,2896,0.6373596219345927
+percentile99,Hyper tree,4096,0.6342845354229212
+percentile99,Hyper tree,5792,0.6411871397867799
+percentile99,Hyper tree,8192,0.6347493836656213
+percentile99,Hyper tree,11585,0.624275341629982
+percentile99,Hyper tree,16384,0.6344416625797749
+percentile99,Hyper tree,23170,0.6272315932437778
+percentile99,Hyper tree,32768,0.6306003015488386
+percentile99,Hyper tree,46340,0.6315764598548412
+percentile99,Hyper tree,65536,0.6304052537307143
+percentile99,Hyper tree,92681,0.6331204203888774
+percentile99,Hyper tree,131072,0.6383295180276036
+percentile99,Hyper tree,185363,0.6348733780905604
+percentile99,Hyper tree,262144,0.635831062681973
+percentile99,Hyper tree,370727,0.6328596090897918
+percentile99,Hyper tree,524288,0.6333044311031699
+percentile99,Hyper tree,741455,0.6242874888703227
+percentile99,Hyper tree,1048576,0.6381279472261667
+percentile50,DuckDB separate,1,2.2333216816186905
+percentile50,DuckDB separate,2,2.4612391078844666
+percentile50,DuckDB separate,4,2.74107137741521
+percentile50,DuckDB separate,5,2.852919706143439
+percentile50,DuckDB separate,8,3.3759836265817285
+percentile50,DuckDB separate,11,3.7155672600492835
+percentile50,DuckDB separate,16,4.410644773393869
+percentile50,DuckDB separate,22,4.881218012422323
+percentile50,DuckDB separate,32,5.854482727590948
+percentile50,DuckDB window,1,1.5977419344708323
+percentile50,DuckDB window,2,1.6376532269641757
+percentile50,DuckDB window,4,1.744426706340164
+percentile50,DuckDB window,5,1.786645176820457
+percentile50,DuckDB window,8,1.8622593143954873
+percentile50,DuckDB window,11,2.014636132866144
+percentile50,DuckDB window,16,2.1297359773889184
+percentile50,DuckDB window,22,2.2807140862569213
+percentile50,DuckDB window,32,2.4419152289628983
+percentile50,DuckDB window,45,2.8160234419628978
+percentile50,DuckDB window,64,2.9417918701656163
+percentile50,DuckDB window,90,3.194965176284313
+percentile50,DuckDB window,128,3.587968652136624
+percentile50,DuckDB window,181,4.285469216294587
+percentile50,DuckDB window,256,4.753564733080566
+percentile50,DuckDB window,362,5.775976692326367
+percentile50,Hyper naive,1,0.20866829343140125
+percentile50,Hyper naive,2,0.2116647893562913
+percentile50,Hyper naive,4,0.22040037252008915
+percentile50,Hyper naive,5,0.21850149147212505
+percentile50,Hyper naive,8,0.23524949979037046
+percentile50,Hyper naive,11,0.2564333640038967
+percentile50,Hyper naive,16,0.3085719561204314
+percentile50,Hyper naive,22,0.3528977232053876
+percentile50,Hyper naive,32,0.33434090856462717
+percentile50,Hyper naive,45,0.4021152639761567
+percentile50,Hyper naive,64,0.4194672768935561
+percentile50,Hyper naive,90,0.4918727120384574
+percentile50,Hyper naive,128,0.5927469171583652
+percentile50,Hyper naive,181,0.718724712729454
+percentile50,Hyper naive,256,0.9156663594767451
+percentile50,Hyper naive,362,1.1583630228415132
+percentile50,Hyper naive,512,1.47902915161103
+percentile50,Hyper naive,724,1.987793331965804
+percentile50,Hyper naive,1024,2.6697250148281455
+percentile50,Hyper naive,1448,3.6197889214381576
+percentile50,Hyper naive,2048,5.354332610964775
+percentile50,Hyper incremental,1,0.20971125923097134
+percentile50,Hyper incremental,2,0.2171270353719592
+percentile50,Hyper incremental,4,0.21141228172928095
+percentile50,Hyper incremental,5,0.2089278819039464
+percentile50,Hyper incremental,8,0.21590270940214396
+percentile50,Hyper incremental,11,0.21585638634860516
+percentile50,Hyper incremental,16,0.22931807674467564
+percentile50,Hyper incremental,22,0.24712556786835194
+percentile50,Hyper incremental,32,0.2354015102609992
+percentile50,Hyper incremental,45,0.2574243079870939
+percentile50,Hyper incremental,64,0.2685709549114108
+percentile50,Hyper incremental,90,0.28917622100561857
+percentile50,Hyper incremental,128,0.3163597071543336
+percentile50,Hyper incremental,181,0.34630787279456854
+percentile50,Hyper incremental,256,0.41670294385403395
+percentile50,Hyper incremental,362,0.49587071500718594
+percentile50,Hyper incremental,512,0.5817437237128615
+percentile50,Hyper incremental,724,0.6773039577528834
+percentile50,Hyper incremental,1024,0.817103155888617
+percentile50,Hyper incremental,1448,0.9884852976538241
+percentile50,Hyper incremental,2048,1.2584955245256424
+percentile50,Hyper incremental,2896,1.6103610931895673
+percentile50,Hyper incremental,4096,2.125786291435361
+percentile50,Hyper incremental,5792,2.8582094395533204
+percentile50,Hyper incremental,8192,3.896407002583146
+percentile50,Hyper incremental,11585,69.06789787020534
+percentile50,Hyper tree,1,0.8085952624678612
+percentile50,Hyper tree,2,0.7930858647450805
+percentile50,Hyper tree,4,0.747842438519001
+percentile50,Hyper tree,5,0.7210815455764532
+percentile50,Hyper tree,8,0.7078098515048623
+percentile50,Hyper tree,11,0.6806704215705395
+percentile50,Hyper tree,16,0.6625695759430528
+percentile50,Hyper tree,22,0.6544182067736983
+percentile50,Hyper tree,32,0.6420780634507537
+percentile50,Hyper tree,45,0.6320427814498544
+percentile50,Hyper tree,64,0.6250565499067307
+percentile50,Hyper tree,90,0.6210881117731333
+percentile50,Hyper tree,128,0.610576550476253
+percentile50,Hyper tree,181,0.612540072761476
+percentile50,Hyper tree,256,0.626770056784153
+percentile50,Hyper tree,362,0.6226917440071702
+percentile50,Hyper tree,512,0.6310638878494501
+percentile50,Hyper tree,724,0.6282292064279318
+percentile50,Hyper tree,1024,0.6359095387160778
+percentile50,Hyper tree,1448,0.6271309163421392
+percentile50,Hyper tree,2048,0.6361709227785468
+percentile50,Hyper tree,2896,0.636695590801537
+percentile50,Hyper tree,4096,0.6315874103456736
+percentile50,Hyper tree,5792,0.6366149270907044
+percentile50,Hyper tree,8192,0.6361321453005075
+percentile50,Hyper tree,11585,0.6365937581285834
+percentile50,Hyper tree,16384,0.630650682374835
+percentile50,Hyper tree,23170,0.6370780589058995
+percentile50,Hyper tree,32768,0.6326897460967302
+percentile50,Hyper tree,46340,0.6344426805153489
+percentile50,Hyper tree,65536,0.635855040512979
+percentile50,Hyper tree,92681,0.6270479513332248
+percentile50,Hyper tree,131072,0.637027945369482
+percentile50,Hyper tree,185363,0.6498656440526247
+percentile50,Hyper tree,262144,0.6399522004649043
+percentile50,Hyper tree,370727,0.6381933763623238
+percentile50,Hyper tree,524288,0.6424557464197278
+percentile50,Hyper tree,741455,0.6384316626936197
+percentile50,Hyper tree,1048576,0.6496475320309401
+rank,Hyper naive,1,0.22818033955991268
+rank,Hyper naive,2,0.2186844451352954
+rank,Hyper naive,4,0.2201530272141099
+rank,Hyper naive,5,0.21827173698693514
+rank,Hyper naive,8,0.21074254158884287
+rank,Hyper naive,11,0.21306061185896397
+rank,Hyper naive,16,0.2106326576322317
+rank,Hyper naive,22,0.21510131191462278
+rank,Hyper naive,32,0.21346616186201572
+rank,Hyper naive,45,0.21363729145377874
+rank,Hyper naive,64,0.22139186598360538
+rank,Hyper naive,90,0.210753227584064
+rank,Hyper naive,128,0.20882938895374537
+rank,Hyper naive,181,0.22381374519318342
+rank,Hyper naive,256,0.23964582569897175
+rank,Hyper naive,362,0.2636122386902571
+rank,Hyper naive,512,0.3117786506190896
+rank,Hyper naive,724,0.3652587914839387
+rank,Hyper naive,1024,0.43621581699699163
+rank,Hyper naive,1448,0.5523774782195687
+rank,Hyper naive,2048,0.7031146874651313
+rank,Hyper naive,2896,0.9204472601413727
+rank,Hyper naive,4096,1.2353730630129576
+rank,Hyper naive,5792,1.6691890303045511
+rank,Hyper naive,8192,2.261275174561888
+rank,Hyper naive,11585,3.1266800556331873
+rank,Hyper naive,16384,6.390813882928342
+rank,Hyper tree,1,0.4393177032470703
+rank,Hyper tree,2,0.43871264439076185
+rank,Hyper tree,4,0.43987329211086035
+rank,Hyper tree,5,0.43842495419085026
+rank,Hyper tree,8,0.4300678828731179
+rank,Hyper tree,11,0.43191710487008095
+rank,Hyper tree,16,0.4351850636303425
+rank,Hyper tree,22,0.4376934887841344
+rank,Hyper tree,32,0.4360632859170437
+rank,Hyper tree,45,0.4340775040909648
+rank,Hyper tree,64,0.42930028960108757
+rank,Hyper tree,90,0.4274669075384736
+rank,Hyper tree,128,0.4361662231385708
+rank,Hyper tree,181,0.4373563602566719
+rank,Hyper tree,256,0.4346524737775326
+rank,Hyper tree,362,0.45444424729794264
+rank,Hyper tree,512,0.47048058081418276
+rank,Hyper tree,724,0.5095515614375472
+rank,Hyper tree,1024,0.5248647993430495
+rank,Hyper tree,1448,0.5379791213199496
+rank,Hyper tree,2048,0.534246482886374
+rank,Hyper tree,2896,0.5389589359983802
+rank,Hyper tree,4096,0.5374761437997222
+rank,Hyper tree,5792,0.5595716945827007
+rank,Hyper tree,8192,0.5761134792119265
+rank,Hyper tree,11585,0.6003941241651773
+rank,Hyper tree,16384,0.6246456820517778
+rank,Hyper tree,23170,0.6784178987145424
+rank,Hyper tree,32768,0.7308359779417515
+rank,Hyper tree,46340,0.7375650648027658
+rank,Hyper tree,65536,0.7465393850579858
+rank,Hyper tree,92681,0.7558134142309427
+rank,Hyper tree,131072,0.7754841102287173
+rank,Hyper tree,185363,0.8054316332563758
+rank,Hyper tree,262144,0.829999690875411
+rank,Hyper tree,370727,0.8702499344944954
+rank,Hyper tree,524288,0.9154258668422699
+rank,Hyper tree,741455,1.004047189373523
+rank,Hyper tree,1048576,1.1082478985190392
+first_value,Hyper naive,1,0.21556273754686117
+first_value,Hyper naive,2,0.2176696890965104
+first_value,Hyper naive,4,0.23037527222186327
+first_value,Hyper naive,5,0.21913832239806652
+first_value,Hyper naive,8,0.235414644703269
+first_value,Hyper naive,11,0.24761315528303385
+first_value,Hyper naive,16,0.286978043615818
+first_value,Hyper naive,22,0.3172891354188323
+first_value,Hyper naive,32,0.31122030410915613
+first_value,Hyper naive,45,0.3719410290941596
+first_value,Hyper naive,64,0.37569740135222673
+first_value,Hyper naive,90,0.42417335510253906
+first_value,Hyper naive,128,0.5292263515293598
+first_value,Hyper naive,181,0.6311429310590029
+first_value,Hyper naive,256,0.7814333736896515
+first_value,Hyper naive,362,0.9876306960359216
+first_value,Hyper naive,512,1.2779954974539578
+first_value,Hyper naive,724,1.6938940482214093
+first_value,Hyper naive,1024,2.241894711740315
+first_value,Hyper naive,1448,3.034584106411785
+first_value,Hyper naive,2048,4.18188610766083
+first_value,Hyper naive,2896,6.221826172899455
+first_value,Hyper tree,1,0.7980060959234834
+first_value,Hyper tree,2,0.7253947583958507
+first_value,Hyper tree,4,0.6608526092022657
+first_value,Hyper tree,5,0.6373764025047421
+first_value,Hyper tree,8,0.6070881010964513
+first_value,Hyper tree,11,0.5903221741318703
+first_value,Hyper tree,16,0.5769568076357245
+first_value,Hyper tree,22,0.5712563702836633
+first_value,Hyper tree,32,0.5530461277812719
+first_value,Hyper tree,45,0.5503843827173114
+first_value,Hyper tree,64,0.5454746829345822
+first_value,Hyper tree,90,0.542166817933321
+first_value,Hyper tree,128,0.5439298823475838
+first_value,Hyper tree,181,0.5322325639426708
+first_value,Hyper tree,256,0.5341216120868921
+first_value,Hyper tree,362,0.5319110751152039
+first_value,Hyper tree,512,0.5308797294273973
+first_value,Hyper tree,724,0.5201022177934647
+first_value,Hyper tree,1024,0.5151340803131461
+first_value,Hyper tree,1448,0.5182393584400415
+first_value,Hyper tree,2048,0.5131794791668653
+first_value,Hyper tree,2896,0.5111197559162974
+first_value,Hyper tree,4096,0.5075370091944933
+first_value,Hyper tree,5792,0.5042959554120898
+first_value,Hyper tree,8192,0.500973166897893
+first_value,Hyper tree,11585,0.48538099601864815
+first_value,Hyper tree,16384,0.47669821232557297
+first_value,Hyper tree,23170,0.46617444697767496
+first_value,Hyper tree,32768,0.46335374657064676
+first_value,Hyper tree,46340,0.4507595235481858
+first_value,Hyper tree,65536,0.455407970584929
+first_value,Hyper tree,92681,0.4358304664492607
+first_value,Hyper tree,131072,0.4381239088252187
+first_value,Hyper tree,185363,0.4356412384659052
+first_value,Hyper tree,262144,0.4362864475697279
+first_value,Hyper tree,370727,0.4359907014295459
+first_value,Hyper tree,524288,0.43976720701903105
+first_value,Hyper tree,741455,0.43199546821415424
+first_value,Hyper tree,1048576,0.4307638043537736
+lead,Hyper naive,1,0.1793165374547243
+lead,Hyper naive,2,0.182551184669137
+lead,Hyper naive,4,0.1954669300466776
+lead,Hyper naive,5,0.21604386903345585
+lead,Hyper naive,8,0.23055146262049675
+lead,Hyper naive,11,0.24584267381578684
+lead,Hyper naive,16,0.29346407670527697
+lead,Hyper naive,22,0.32632456347346306
+lead,Hyper naive,32,0.3273399546742439
+lead,Hyper naive,45,0.37949091847985983
+lead,Hyper naive,64,0.4146856665611267
+lead,Hyper naive,90,0.47575679142028093
+lead,Hyper naive,128,0.6095847161486745
+lead,Hyper naive,181,0.7423661947250366
+lead,Hyper naive,256,0.9279464455321431
+lead,Hyper naive,362,1.1950152441859245
+lead,Hyper naive,512,1.56776109803468
+lead,Hyper naive,724,2.0958506325259805
+lead,Hyper naive,1024,2.7931694141589105
+lead,Hyper naive,1448,3.8203972717747092
+lead,Hyper naive,2048,5.900623918976635
+lead,Hyper tree,1,0.9148875819519162
+lead,Hyper tree,2,1.0056955460458994
+lead,Hyper tree,4,1.0798995648510754
+lead,Hyper tree,5,1.1100508868694305
+lead,Hyper tree,8,1.1488745315000415
+lead,Hyper tree,11,1.1445143520832062
+lead,Hyper tree,16,1.166545175947249
+lead,Hyper tree,22,1.1885940209031105
+lead,Hyper tree,32,1.2072889944538474
+lead,Hyper tree,45,1.185083033517003
+lead,Hyper tree,64,1.2072486318647861
+lead,Hyper tree,90,1.2296446515247226
+lead,Hyper tree,128,1.2602693513035774
+lead,Hyper tree,181,1.2978794360533357
+lead,Hyper tree,256,1.2708809147588909
+lead,Hyper tree,362,1.3447265434078872
+lead,Hyper tree,512,1.4341401560232043
+lead,Hyper tree,724,1.5021178219467402
+lead,Hyper tree,1024,1.4369509313255548
+lead,Hyper tree,1448,1.5723650390282273
+lead,Hyper tree,2048,1.6698885709047318
+lead,Hyper tree,2896,1.7277481770142913
+lead,Hyper tree,4096,1.7576647279784083
+lead,Hyper tree,5792,1.8593808342702687
+lead,Hyper tree,8192,1.907299512065947
+lead,Hyper tree,11585,1.9516925932839513
+lead,Hyper tree,16384,2.0700528463348746
+lead,Hyper tree,23170,2.185141202993691
+lead,Hyper tree,32768,2.2532243449240923
+lead,Hyper tree,46340,2.2490851087495685
+lead,Hyper tree,65536,2.2097433703020215
+lead,Hyper tree,92681,2.2754795346409082
+lead,Hyper tree,131072,2.323147328570485
+lead,Hyper tree,185363,2.513490398414433
+lead,Hyper tree,262144,2.4848391506820917
+lead,Hyper tree,370727,2.4940674751996994
+lead,Hyper tree,524288,2.66210676683113
+lead,Hyper tree,741455,2.7851684750057757
+lead,Hyper tree,1048576,2.8321828078478575
+percentile50,OST,1,0.119798
+percentile50,OST,2,0.123003
+percentile50,OST,4,0.13074
+percentile50,OST,5,0.1368745
+percentile50,OST,8,0.1404845
+percentile50,OST,11,0.14850950000000002
+percentile50,OST,16,0.15207900000000002
+percentile50,OST,22,0.1545215
+percentile50,OST,32,0.1687285
+percentile50,OST,45,0.1713425
+percentile50,OST,64,0.179136
+percentile50,OST,90,0.18619200000000002
+percentile50,OST,128,0.19929750000000002
+percentile50,OST,181,0.200808
+percentile50,OST,256,0.2047665
+percentile50,OST,362,0.217434
+percentile50,OST,512,0.2172275
+percentile50,OST,724,0.22128950000000003
+percentile50,OST,1024,0.230763
+percentile50,OST,1448,0.242515
+percentile50,OST,2048,0.25140450000000003
+percentile50,OST,2896,0.25954849999999996
+percentile50,OST,4096,0.2815805
+percentile50,OST,5792,0.2972655
+percentile50,OST,8192,0.31961150000000005
+percentile50,OST,11585,0.364131
+percentile50,OST,16384,0.4301085
+percentile50,OST,23170,0.6508715
+percentile50,OST,32768,1.093745
+percentile50,OST,46340,1.79589
+percentile50,OST,65536,2.853795
+percentile50,OST,92681,4.403479999999999
+percentile50,OST,131072,6.82657
+percentile99,OST,1,0.12447250000000001
+percentile99,OST,2,0.1320735
+percentile99,OST,4,0.134087
+percentile99,OST,5,0.14003700000000002
+percentile99,OST,8,0.14484599999999997
+percentile99,OST,11,0.150275
+percentile99,OST,16,0.1592015
+percentile99,OST,22,0.163197
+percentile99,OST,32,0.1679045
+percentile99,OST,45,0.1698635
+percentile99,OST,64,0.1795175
+percentile99,OST,90,0.1853055
+percentile99,OST,128,0.1934435
+percentile99,OST,181,0.201398
+percentile99,OST,256,0.20242200000000002
+percentile99,OST,362,0.217556
+percentile99,OST,512,0.21557700000000002
+percentile99,OST,724,0.2251465
+percentile99,OST,1024,0.23274499999999998
+percentile99,OST,1448,0.2392645
+percentile99,OST,2048,0.24850899999999998
+percentile99,OST,2896,0.256408
+percentile99,OST,4096,0.2773675
+percentile99,OST,5792,0.294431
+percentile99,OST,8192,0.3137225
+percentile99,OST,11585,0.36222350000000003
+percentile99,OST,16384,0.426433
+percentile99,OST,23170,0.6427559999999999
+percentile99,OST,32768,1.101925
+percentile99,OST,46340,1.7891
+percentile99,OST,65536,2.823695
+percentile99,OST,92681,4.36553
+percentile99,OST,131072,6.7648399999999995

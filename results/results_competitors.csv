@@ -1,0 +1,24 @@
+20k,Tableau,4.636
+20k,Postgres correlated,60.12159859063104
+20k,Postgres join,72.78034124989063
+20k,DuckDB correlated,3.6306691197678447
+20k,DuckDB join,2.6701390398666263
+20k,DuckDB window,0.04296908527612686
+20k,DuckDB segment tree,0.21696017682552338
+20k,DuckDB naive,0.2649670457467437
+20k,Hyper correlated,2.526251597329974
+20k,Hyper join,2.0619094176217914
+20k,Hyper naive,0.3168100705370307
+20k,Hyper incremental,0.11389727052301168
+20k,Hyper tree,0.03248513676226139
+1gb_small,DuckDB window,13.259451372548938
+1gb_small,DuckDB segment tree,65.21858613751829
+1gb_small,DuckDB naive,81.23506573727354
+1gb_small,Hyper naive,2.629485192708671
+1gb_small,Hyper incremental,0.7498803837224841
+1gb_small,Hyper tree,0.6892979657277465
+1gb,DuckDB window,106.81152536720037
+1gb,DuckDB segment tree,576.0176435867324
+1gb,Hyper naive,375.8991048038006
+1gb,Hyper incremental,3.9621125804260373
+1gb,Hyper tree,0.7090645721182227
